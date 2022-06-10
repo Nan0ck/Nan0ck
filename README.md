@@ -2,7 +2,9 @@
 Hi 👋, I'm Sebastian, a passionate developer from Costa Rica!
 
 🔭 I’m currently working on a Scroll Animation Library for React based on page scroll %
+
 🌱 I’m currently learning Web3 and Solidity 
+
 📫 How to reach me sgha10@hotmail.com
 
 
