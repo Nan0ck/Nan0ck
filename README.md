@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi 👋, I'm Sebastian, a passionate developer from Costa Rica!
 
-🔭 I’m currently working on a Scroll Animation Library for React based on page scroll %
+🔭 I’m currently working on a NFT project: https://lightningworks.io/
 
 🌱 I’m currently learning Web3 and Solidity 
 
