@@ -2,7 +2,12 @@
 Hi 👋, I'm Sebastian, a passionate developer from Costa Rica!
 
 🔭 Currently coding as a hobby
+
+
 Share your secrets in peace: https://www.nan0ck.com/secret
+
+
+
 Case your strings easily: https://www.npmjs.com/package/smart-case
 
 🌱 I’m currently learning Web3 and Solidity 
