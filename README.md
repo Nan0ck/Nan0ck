@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi 👋, I'm Sebastian, a passionate developer from Costa Rica!
+Hi 👋, I'm Nan0ck, a passionate developer from Costa Rica!
 
 🔭 Currently coding as a hobby
 
